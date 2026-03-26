@@ -8,21 +8,17 @@
 
 ## 👨‍💻 About Me
 ```yaml
-name: Arya Bhatt
-education: B.S. Computer Science + Finance Minor @ UMBC (2027)
-current_roles:
+Name : Arya Bhatt
+Education: B.S. Computer Science + Finance Minor @ UMBC (2027)
+Current_roles:
   - Software Engineering Intern @ Youphoria (iOS/Swift)
-  - AI Data Annotation Fellow @ Uber AI Solutions
-interests:
-  - Cybersecurity & Penetration Testing
-  - Fintech & Financial Intelligence
-  - Agentic AI Systems
-achievements:
+  - AI Data Annotation Fellow @ Uber AI Solutions and Handshake AI
+Achievements:
   - HackUMBC 2025 Winner — Best Health/Environmental Hack
   - MLH Best .Tech Domain Winner
-  - AI4ALL Ignite Fellow
-location: Maryland, USA
-status: Open to opportunities
+  - Upcoming AI4ALL Ignite Fellow
+Location: Maryland, USA
+Status: Open to opportunities
 ```
 
 ---
@@ -164,7 +160,7 @@ status: Open to opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhatt-arya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryabhatt2023@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bhattarya.com)
 
 </div>
 

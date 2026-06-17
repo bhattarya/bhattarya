@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Arya+Bhatt+%F0%9F%91%8B;CS+%40+UMBC+%7C+Finance+Minor;Software+Engineer+%40+Youphoria;AI+Fellow+%40+Uber+AI;Cybersecurity+Enthusiast+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Arya+Bhatt+%F0%9F%91%8B;CS+%40+UMBC+%7C+Finance+Minor;IT+Intern+%40+RELIGroup;AI+Fellow+%40+Uber+AI;Cybersecurity+Enthusiast+%F0%9F%94%90)](https://git.io/typing-svg)
 
 </div>
 

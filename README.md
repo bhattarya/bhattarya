@@ -11,7 +11,7 @@
 Name : Arya Bhatt
 Education: B.S. Computer Science + Finance Minor @ UMBC (2027)
 Current_roles:
-  - Software Engineering Intern @ Youphoria (iOS/Swift)
+  - IT Intern @ RELI Group 
   - AI Data Annotation Fellow @ Uber AI Solutions and Handshake AI
 Achievements:
   - HackUMBC 2025 Winner — Best Health/Environmental Hack
